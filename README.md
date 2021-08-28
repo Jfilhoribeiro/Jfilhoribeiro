@@ -1,5 +1,4 @@
-## Olá! Eu sou o José filho ribeiro
-- 👀 I’m interested in development front-end, and its technologies!
+## Olá! Eu sou o José filho ribeiro!
 
  <div>
   <a href="https://github.com/Jfilhoribeiro">
